@@ -1,0 +1,12 @@
+# Site settings
+title: Personal blog
+email: ali@shariat.me
+description: >
+  Yet another personal website.
+baseurl: ""
+url: "https://shariat.me"
+twitter_username:
+github_username:  ali5h
+
+# Build settings
+markdown: kramdown
